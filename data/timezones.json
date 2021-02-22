@@ -1,0 +1,1466 @@
+[
+  {
+    "Abbreviation": "A",
+    "Time zone name": "Alpha Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +1"
+  },
+  {
+    "Abbreviation": "ACDT",
+    "Time zone name": "Australian Central Daylight Time\nCDT – Central Daylight Time\nCDST – Central Daylight Savings Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +10:30"
+  },
+  {
+    "Abbreviation": "ACST",
+    "Time zone name": "Australian Central Standard Time\nCST – Central Standard Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +9:30"
+  },
+  {
+    "Abbreviation": "ACT",
+    "Time zone name": "Acre Time",
+    "Location": "South America\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "ACT",
+    "Time zone name": "Australian Central Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +9:30 / +10:30"
+  },
+  {
+    "Abbreviation": "ACWST",
+    "Time zone name": "Australian Central Western Standard Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +8:45"
+  },
+  {
+    "Abbreviation": "ADT",
+    "Time zone name": "Arabia Daylight Time\nAST – Arabia Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "ADT",
+    "Time zone name": "Atlantic Daylight Time\nADST – Atlantic Daylight Saving Time\nAST – Atlantic Summer Time\nHAA – Heure Avancée de l'Atlantique (French)\n",
+    "Location": "North America\nAtlantic\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "AEDT",
+    "Time zone name": "Australian Eastern Daylight Time\nEDT – Eastern Daylight Time\nEDST – Eastern Daylight Saving Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "AEST",
+    "Time zone name": "Australian Eastern Standard Time\nEST – Eastern Standard Time\nAET – Australian Eastern Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "AET",
+    "Time zone name": "Australian Eastern Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +10:00 / +11:00"
+  },
+  {
+    "Abbreviation": "AFT",
+    "Time zone name": "Afghanistan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +4:30"
+  },
+  {
+    "Abbreviation": "AKDT",
+    "Time zone name": "Alaska Daylight Time\nADST – Alaska Daylight Saving Time",
+    "Location": "North America\n",
+    "Offset": "UTC -8"
+  },
+  {
+    "Abbreviation": "AKST",
+    "Time zone name": "Alaska Standard Time\nAT – Alaska Time",
+    "Location": "North America\n",
+    "Offset": "UTC -9"
+  },
+  {
+    "Abbreviation": "ALMT",
+    "Time zone name": "Alma-Ata Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "AMST",
+    "Time zone name": "Amazon Summer Time",
+    "Location": "South America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "AMST",
+    "Time zone name": "Armenia Summer Time\nAMDT – Armenia Daylight Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "AMT",
+    "Time zone name": "Amazon Time",
+    "Location": "South America\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "AMT",
+    "Time zone name": "Armenia Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "ANAST",
+    "Time zone name": "Anadyr Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "ANAT",
+    "Time zone name": "Anadyr Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "AQTT",
+    "Time zone name": "Aqtobe Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "ART",
+    "Time zone name": "Argentina Time",
+    "Location": "Antarctica\nSouth America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "AST",
+    "Time zone name": "Arabia Standard Time\nAST – Arabic Standard Time\nAST – Al Manamah Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "AST",
+    "Time zone name": "Atlantic Standard Time\nAT – Atlantic Time\nAST – Tiempo Estándar del Atlántico (Spanish)\nHNA – Heure Normale de l'Atlantique (French)\n",
+    "Location": "North America\nAtlantic\nCaribbean\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "AT",
+    "Time zone name": "Atlantic Time",
+    "Location": "North America\nAtlantic\nCaribbean\n",
+    "Offset": "UTC -4:00 / -3:00"
+  },
+  {
+    "Abbreviation": "AWDT",
+    "Time zone name": "Australian Western Daylight Time\nWDT – Western Daylight Time\nWST – Western Summer Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "AWST",
+    "Time zone name": "Australian Western Standard Time\nWST – Western Standard Time\nWAT – Western Australia Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "AZOST",
+    "Time zone name": "Azores Summer Time\nAZODT – Azores Daylight Time",
+    "Location": "Atlantic\n",
+    "Offset": "UTC +0"
+  },
+  {
+    "Abbreviation": "AZOT",
+    "Time zone name": "Azores Time\nAZOST – Azores Standard Time",
+    "Location": "Atlantic\n",
+    "Offset": "UTC -1"
+  },
+  {
+    "Abbreviation": "AZST",
+    "Time zone name": "Azerbaijan Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "AZT",
+    "Time zone name": "Azerbaijan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "AoE",
+    "Time zone name": "Anywhere on Earth",
+    "Location": "Pacific\n",
+    "Offset": "UTC -12"
+  },
+  {
+    "Abbreviation": "B",
+    "Time zone name": "Bravo Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "BNT",
+    "Time zone name": "Brunei Darussalam Time\nBDT – Brunei Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "BOT",
+    "Time zone name": "Bolivia Time",
+    "Location": "South America\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "BRST",
+    "Time zone name": "Brasília Summer Time\nBST – Brazil Summer Time\nBST – Brazilian Summer Time",
+    "Location": "South America\n",
+    "Offset": "UTC -2"
+  },
+  {
+    "Abbreviation": "BRT",
+    "Time zone name": "Brasília Time\nBT – Brazil Time\nBT – Brazilian Time",
+    "Location": "South America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "BST",
+    "Time zone name": "Bangladesh Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "BST",
+    "Time zone name": "Bougainville Standard Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "BST",
+    "Time zone name": "British Summer Time\nBDT – British Daylight Time\nBDST – British Daylight Saving Time",
+    "Location": "Europe\n",
+    "Offset": "UTC +1"
+  },
+  {
+    "Abbreviation": "BTT",
+    "Time zone name": "Bhutan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "C",
+    "Time zone name": "Charlie Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "CAST",
+    "Time zone name": "Casey Time",
+    "Location": "Antarctica\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "CAT",
+    "Time zone name": "Central Africa Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "CCT",
+    "Time zone name": "Cocos Islands Time",
+    "Location": "Indian Ocean\n",
+    "Offset": "UTC +6:30"
+  },
+  {
+    "Abbreviation": "CDT",
+    "Time zone name": "Central Daylight Time\nCDST – Central Daylight Saving Time\nNACDT – North American Central Daylight Time\nHAC – Heure Avancée du Centre (French)\n",
+    "Location": "North America\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "CDT",
+    "Time zone name": "Cuba Daylight Time",
+    "Location": "Caribbean\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "CEST",
+    "Time zone name": "Central European Summer Time\nCEDT – Central European Daylight Time\nECST – European Central Summer Time\nMESZ – Mitteleuropäische Sommerzeit (German)\n",
+    "Location": "Europe\nAntarctica\n",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "CET",
+    "Time zone name": "Central European Time\nECT – European Central Time\nCET – Central Europe Time\nMEZ – Mitteleuropäische Zeit (German)\n",
+    "Location": "Europe\nAfrica\n",
+    "Offset": "UTC +1"
+  },
+  {
+    "Abbreviation": "CHADT",
+    "Time zone name": "Chatham Island Daylight Time\nCDT – Chatham Daylight Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +13:45"
+  },
+  {
+    "Abbreviation": "CHAST",
+    "Time zone name": "Chatham Island Standard Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +12:45"
+  },
+  {
+    "Abbreviation": "CHOST",
+    "Time zone name": "Choibalsan Summer Time\nCHODT – Choibalsan Daylight Time\nCHODST – Choibalsan Daylight Saving Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "CHOT",
+    "Time zone name": "Choibalsan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "CHUT",
+    "Time zone name": "Chuuk Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "CIDST",
+    "Time zone name": "Cayman Islands Daylight Saving Time",
+    "Location": "Caribbean\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "CIST",
+    "Time zone name": "Cayman Islands Standard Time\nCIT – Cayman Islands Time",
+    "Location": "Caribbean\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "CKT",
+    "Time zone name": "Cook Island Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -10"
+  },
+  {
+    "Abbreviation": "CLST",
+    "Time zone name": "Chile Summer Time\nCLDT – Chile Daylight Time",
+    "Location": "South America\nAntarctica\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "CLT",
+    "Time zone name": "Chile Standard Time\nCT – Chile Time\nCLST – Chile Standard Time",
+    "Location": "South America\nAntarctica\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "COT",
+    "Time zone name": "Colombia Time",
+    "Location": "South America\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "CST",
+    "Time zone name": "Central Standard Time\nCT – Central Time\nNACST – North American Central Standard Time\nCST – Tiempo Central Estándar (Spanish)\nHNC – Heure Normale du Centre (French)\n",
+    "Location": "North America\nCentral America\n",
+    "Offset": "UTC -6"
+  },
+  {
+    "Abbreviation": "CST",
+    "Time zone name": "China Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "CST",
+    "Time zone name": "Cuba Standard Time",
+    "Location": "Caribbean\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "CT",
+    "Time zone name": "Central Time",
+    "Location": "North America\nCentral America\n",
+    "Offset": "UTC -6:00 / -5:00"
+  },
+  {
+    "Abbreviation": "CVT",
+    "Time zone name": "Cape Verde Time",
+    "Location": "Africa\n",
+    "Offset": "UTC -1"
+  },
+  {
+    "Abbreviation": "CXT",
+    "Time zone name": "Christmas Island Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "ChST",
+    "Time zone name": "Chamorro Standard Time\nGST – Guam Standard Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "D",
+    "Time zone name": "Delta Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "DAVT",
+    "Time zone name": "Davis Time",
+    "Location": "Antarctica\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "DDUT",
+    "Time zone name": "Dumont-d'Urville Time",
+    "Location": "Antarctica\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "E",
+    "Time zone name": "Echo Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "EASST",
+    "Time zone name": "Easter Island Summer Time\nEADT – Easter Island Daylight Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "EAST",
+    "Time zone name": "Easter Island Standard Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -6"
+  },
+  {
+    "Abbreviation": "EAT",
+    "Time zone name": "Eastern Africa Time\nEAT – East Africa Time",
+    "Location": "Africa\nIndian Ocean\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "ECT",
+    "Time zone name": "Ecuador Time",
+    "Location": "South America\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "EDT",
+    "Time zone name": "Eastern Daylight Time\nEDST – Eastern Daylight Savings Time\nNAEDT – North American Eastern Daylight Time\nHAE – Heure Avancée de l'Est (French)\nEDT – Tiempo de verano del Este (Spanish)\n",
+    "Location": "North America\nCaribbean\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "EEST",
+    "Time zone name": "Eastern European Summer Time\nEEDT – Eastern European Daylight Time\nOESZ – Osteuropäische Sommerzeit (German)\n",
+    "Location": "Europe\nAsia\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "EET",
+    "Time zone name": "Eastern European Time\nOEZ – Osteuropäische Zeit (German)\n",
+    "Location": "Europe\nAsia\nAfrica\n",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "EGST",
+    "Time zone name": "Eastern Greenland Summer Time\nEGST – East Greenland Summer Time",
+    "Location": "North America\n",
+    "Offset": "UTC +0"
+  },
+  {
+    "Abbreviation": "EGT",
+    "Time zone name": "East Greenland Time\nEGT – Eastern Greenland Time",
+    "Location": "North America\n",
+    "Offset": "UTC -1"
+  },
+  {
+    "Abbreviation": "EST",
+    "Time zone name": "Eastern Standard Time\nET – Eastern Time\nNAEST – North American Eastern Standard Time\nET – Tiempo del Este (Spanish)\nHNE – Heure Normale de l'Est (French)\n",
+    "Location": "North America\nCaribbean\nCentral America\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "ET",
+    "Time zone name": "Eastern Time",
+    "Location": "North America\nCaribbean\nCentral America\n",
+    "Offset": "UTC -5:00 / -4:00"
+  },
+  {
+    "Abbreviation": "F",
+    "Time zone name": "Foxtrot Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "FET",
+    "Time zone name": "Further-Eastern European Time",
+    "Location": "Europe\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "FJST",
+    "Time zone name": "Fiji Summer Time\nFJDT – Fiji Daylight Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +13"
+  },
+  {
+    "Abbreviation": "FJT",
+    "Time zone name": "Fiji Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "FKST",
+    "Time zone name": "Falkland Islands Summer Time\nFKDT – Falkland Island Daylight Time",
+    "Location": "South America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "FKT",
+    "Time zone name": "Falkland Island Time\nFKST – Falkland Island Standard Time",
+    "Location": "South America\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "FNT",
+    "Time zone name": "Fernando de Noronha Time",
+    "Location": "South America\n",
+    "Offset": "UTC -2"
+  },
+  {
+    "Abbreviation": "G",
+    "Time zone name": "Golf Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "GALT",
+    "Time zone name": "Galapagos Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -6"
+  },
+  {
+    "Abbreviation": "GAMT",
+    "Time zone name": "Gambier Time\nGAMT – Gambier Islands Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -9"
+  },
+  {
+    "Abbreviation": "GET",
+    "Time zone name": "Georgia Standard Time",
+    "Location": "Asia\nEurope\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "GFT",
+    "Time zone name": "French Guiana Time",
+    "Location": "South America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "GILT",
+    "Time zone name": "Gilbert Island Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "GMT",
+    "Time zone name": "Greenwich Mean Time\nUTC – Coordinated Universal Time\nGT – Greenwich Time",
+    "Location": "Europe\nAfrica\nNorth America\nAntarctica\n",
+    "Offset": "UTC +0"
+  },
+  {
+    "Abbreviation": "GST",
+    "Time zone name": "Gulf Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "GST",
+    "Time zone name": "South Georgia Time",
+    "Location": "South America\n",
+    "Offset": "UTC -2"
+  },
+  {
+    "Abbreviation": "GYT",
+    "Time zone name": "Guyana Time",
+    "Location": "South America\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "H",
+    "Time zone name": "Hotel Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "HDT",
+    "Time zone name": "Hawaii-Aleutian Daylight Time\nHADT – Hawaii Daylight Time",
+    "Location": "North America\n",
+    "Offset": "UTC -9"
+  },
+  {
+    "Abbreviation": "HKT",
+    "Time zone name": "Hong Kong Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "HOVST",
+    "Time zone name": "Hovd Summer Time\nHOVDT – Hovd Daylight Time\nHOVDST – Hovd Daylight Saving Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "HOVT",
+    "Time zone name": "Hovd Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "HST",
+    "Time zone name": "Hawaii Standard Time\nHAST – Hawaii-Aleutian Standard Time",
+    "Location": "North America\nPacific\n",
+    "Offset": "UTC -10"
+  },
+  {
+    "Abbreviation": "I",
+    "Time zone name": "India Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "ICT",
+    "Time zone name": "Indochina Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "IDT",
+    "Time zone name": "Israel Daylight Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "IOT",
+    "Time zone name": "Indian Chagos Time",
+    "Location": "Indian Ocean\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "IRDT",
+    "Time zone name": "Iran Daylight Time\nIRST – Iran Summer Time\nIDT – Iran Daylight Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +4:30"
+  },
+  {
+    "Abbreviation": "IRKST",
+    "Time zone name": "Irkutsk Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "IRKT",
+    "Time zone name": "Irkutsk Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "IRST",
+    "Time zone name": "Iran Standard Time\nIT – Iran Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +3:30"
+  },
+  {
+    "Abbreviation": "IST",
+    "Time zone name": "India Standard Time\nIT – India Time\nIST – Indian Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5:30"
+  },
+  {
+    "Abbreviation": "IST",
+    "Time zone name": "Irish Standard Time\nIST – Irish Summer Time",
+    "Location": "Europe\n",
+    "Offset": "UTC +1"
+  },
+  {
+    "Abbreviation": "IST",
+    "Time zone name": "Israel Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "JST",
+    "Time zone name": "Japan Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "K",
+    "Time zone name": "Kilo Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "KGT",
+    "Time zone name": "Kyrgyzstan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "KOST",
+    "Time zone name": "Kosrae Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "KRAST",
+    "Time zone name": "Krasnoyarsk Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "KRAT",
+    "Time zone name": "Krasnoyarsk Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "KST",
+    "Time zone name": "Korea Standard Time\nKST – Korean Standard Time\nKT – Korea Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "KUYT",
+    "Time zone name": "Kuybyshev Time\nSAMST – Samara Summer Time",
+    "Location": "Europe\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "L",
+    "Time zone name": "Lima Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "LHDT",
+    "Time zone name": "Lord Howe Daylight Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "LHST",
+    "Time zone name": "Lord Howe Standard Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +10:30"
+  },
+  {
+    "Abbreviation": "LINT",
+    "Time zone name": "Line Islands Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +14"
+  },
+  {
+    "Abbreviation": "M",
+    "Time zone name": "Mike Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "MAGST",
+    "Time zone name": "Magadan Summer Time\nMAGST – Magadan Island Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "MAGT",
+    "Time zone name": "Magadan Time\nMAGT – Magadan Island Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "MART",
+    "Time zone name": "Marquesas Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -9:30"
+  },
+  {
+    "Abbreviation": "MAWT",
+    "Time zone name": "Mawson Time",
+    "Location": "Antarctica\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "MDT",
+    "Time zone name": "Mountain Daylight Time\nMDST – Mountain Daylight Saving Time\nNAMDT – North American Mountain Daylight Time\nHAR – Heure Avancée des Rocheuses (French)\n",
+    "Location": "North America\n",
+    "Offset": "UTC -6"
+  },
+  {
+    "Abbreviation": "MHT",
+    "Time zone name": "Marshall Islands Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "MMT",
+    "Time zone name": "Myanmar Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +6:30"
+  },
+  {
+    "Abbreviation": "MSD",
+    "Time zone name": "Moscow Daylight Time\nMoscow Summer Time",
+    "Location": "Europe\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "MSK",
+    "Time zone name": "Moscow Standard Time\nMCK – Moscow Time",
+    "Location": "Europe\nAsia\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "MST",
+    "Time zone name": "Mountain Standard Time\nMT – Mountain Time\nNAMST – North American Mountain Standard Time\nHNR – Heure Normale des Rocheuses (French)\n",
+    "Location": "North America\n",
+    "Offset": "UTC -7"
+  },
+  {
+    "Abbreviation": "MT",
+    "Time zone name": "Mountain Time",
+    "Location": "North America\n",
+    "Offset": "UTC -7:00 / -6:00"
+  },
+  {
+    "Abbreviation": "MUT",
+    "Time zone name": "Mauritius Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "MVT",
+    "Time zone name": "Maldives Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "MYT",
+    "Time zone name": "Malaysia Time\nMST – Malaysian Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "N",
+    "Time zone name": "November Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -1"
+  },
+  {
+    "Abbreviation": "NCT",
+    "Time zone name": "New Caledonia Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "NDT",
+    "Time zone name": "Newfoundland Daylight Time\nHAT – Heure Avancée de Terre-Neuve (French)\n",
+    "Location": "North America\n",
+    "Offset": "UTC -2:30"
+  },
+  {
+    "Abbreviation": "NFDT",
+    "Time zone name": "Norfolk Daylight Time\nNFDT – Norfolk Island Daylight Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "NFT",
+    "Time zone name": "Norfolk Time\nNFT – Norfolk Island Time",
+    "Location": "Australia\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "NOVST",
+    "Time zone name": "Novosibirsk Summer Time\nOMSST – Omsk Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "NOVT",
+    "Time zone name": "Novosibirsk Time\nOMST – Omsk Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "NPT",
+    "Time zone name": "Nepal Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5:45"
+  },
+  {
+    "Abbreviation": "NRT",
+    "Time zone name": "Nauru Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "NST",
+    "Time zone name": "Newfoundland Standard Time\nHNT – Heure Normale de Terre-Neuve (French)\n",
+    "Location": "North America\n",
+    "Offset": "UTC -3:30"
+  },
+  {
+    "Abbreviation": "NUT",
+    "Time zone name": "Niue Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -11"
+  },
+  {
+    "Abbreviation": "NZDT",
+    "Time zone name": "New Zealand Daylight Time",
+    "Location": "Pacific\nAntarctica\n",
+    "Offset": "UTC +13"
+  },
+  {
+    "Abbreviation": "NZST",
+    "Time zone name": "New Zealand Standard Time",
+    "Location": "Pacific\nAntarctica\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "O",
+    "Time zone name": "Oscar Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -2"
+  },
+  {
+    "Abbreviation": "OMSST",
+    "Time zone name": "Omsk Summer Time\nNOVST – Novosibirsk Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "OMST",
+    "Time zone name": "Omsk Standard Time\nOMST – Omsk Time\nNOVT – Novosibirsk Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "ORAT",
+    "Time zone name": "Oral Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "P",
+    "Time zone name": "Papa Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "PDT",
+    "Time zone name": "Pacific Daylight Time\nPDST – Pacific Daylight Saving Time\nNAPDT – North American Pacific Daylight Time\nHAP – Heure Avancée du Pacifique (French)\n",
+    "Location": "North America\n",
+    "Offset": "UTC -7"
+  },
+  {
+    "Abbreviation": "PET",
+    "Time zone name": "Peru Time",
+    "Location": "South America\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "PETST",
+    "Time zone name": "Kamchatka Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "PETT",
+    "Time zone name": "Kamchatka Time\nPETT – Petropavlovsk-Kamchatski Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "PGT",
+    "Time zone name": "Papua New Guinea Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "PHOT",
+    "Time zone name": "Phoenix Island Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +13"
+  },
+  {
+    "Abbreviation": "PHT",
+    "Time zone name": "Philippine Time\nPST – Philippine Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "PKT",
+    "Time zone name": "Pakistan Standard Time\nPKT – Pakistan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "PMDT",
+    "Time zone name": "Pierre & Miquelon Daylight Time",
+    "Location": "North America\n",
+    "Offset": "UTC -2"
+  },
+  {
+    "Abbreviation": "PMST",
+    "Time zone name": "Pierre & Miquelon Standard Time",
+    "Location": "North America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "PONT",
+    "Time zone name": "Pohnpei Standard Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "PST",
+    "Time zone name": "Pacific Standard Time\nPT – Pacific Time\nNAPST – North American Pacific Standard Time\nPT – Tiempo del Pacífico (Spanish)\nHNP – Heure Normale du Pacifique (French)\n",
+    "Location": "North America\n",
+    "Offset": "UTC -8"
+  },
+  {
+    "Abbreviation": "PST",
+    "Time zone name": "Pitcairn Standard Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -8"
+  },
+  {
+    "Abbreviation": "PT",
+    "Time zone name": "Pacific Time",
+    "Location": "North America\n",
+    "Offset": "UTC -8:00 / -7:00"
+  },
+  {
+    "Abbreviation": "PWT",
+    "Time zone name": "Palau Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "PYST",
+    "Time zone name": "Paraguay Summer Time",
+    "Location": "South America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "PYT",
+    "Time zone name": "Paraguay Time",
+    "Location": "South America\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "PYT",
+    "Time zone name": "Pyongyang Time\nPYST – Pyongyang Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8:30"
+  },
+  {
+    "Abbreviation": "Q",
+    "Time zone name": "Quebec Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "QYZT",
+    "Time zone name": "Qyzylorda Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "R",
+    "Time zone name": "Romeo Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -5"
+  },
+  {
+    "Abbreviation": "RET",
+    "Time zone name": "Reunion Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "ROTT",
+    "Time zone name": "Rothera Time",
+    "Location": "Antarctica\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "S",
+    "Time zone name": "Sierra Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -6"
+  },
+  {
+    "Abbreviation": "SAKT",
+    "Time zone name": "Sakhalin Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "SAMT",
+    "Time zone name": "Samara Time\nSAMT – Samara Standard Time",
+    "Location": "Europe\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "SAST",
+    "Time zone name": "South Africa Standard Time\nSAST – South African Standard Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "SBT",
+    "Time zone name": "Solomon Islands Time\nSBT – Solomon Island Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "SCT",
+    "Time zone name": "Seychelles Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "SGT",
+    "Time zone name": "Singapore Time\nSST – Singapore Standard Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "SRET",
+    "Time zone name": "Srednekolymsk Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "SRT",
+    "Time zone name": "Suriname Time",
+    "Location": "South America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "SST",
+    "Time zone name": "Samoa Standard Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -11"
+  },
+  {
+    "Abbreviation": "SYOT",
+    "Time zone name": "Syowa Time",
+    "Location": "Antarctica\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "T",
+    "Time zone name": "Tango Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -7"
+  },
+  {
+    "Abbreviation": "TAHT",
+    "Time zone name": "Tahiti Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC -10"
+  },
+  {
+    "Abbreviation": "TFT",
+    "Time zone name": "French Southern and Antarctic Time\nKIT – Kerguelen (Islands) Time",
+    "Location": "Indian Ocean\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "TJT",
+    "Time zone name": "Tajikistan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "TKT",
+    "Time zone name": "Tokelau Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +13"
+  },
+  {
+    "Abbreviation": "TLT",
+    "Time zone name": "East Timor Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "TMT",
+    "Time zone name": "Turkmenistan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "TOST",
+    "Time zone name": "Tonga Summer Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +14"
+  },
+  {
+    "Abbreviation": "TOT",
+    "Time zone name": "Tonga Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +13"
+  },
+  {
+    "Abbreviation": "TRT",
+    "Time zone name": "Turkey Time",
+    "Location": "Asia\nEurope\n",
+    "Offset": "UTC +3"
+  },
+  {
+    "Abbreviation": "TVT",
+    "Time zone name": "Tuvalu Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "U",
+    "Time zone name": "Uniform Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -8"
+  },
+  {
+    "Abbreviation": "ULAST",
+    "Time zone name": "Ulaanbaatar Summer Time\nULAST – Ulan Bator Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "ULAT",
+    "Time zone name": "Ulaanbaatar Time\nULAT – Ulan Bator Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "UTC",
+    "Time zone name": "Coordinated Universal Time",
+    "Location": "Worldwide\n",
+    "Offset": "UTC"
+  },
+  {
+    "Abbreviation": "UYST",
+    "Time zone name": "Uruguay Summer Time",
+    "Location": "South America\n",
+    "Offset": "UTC -2"
+  },
+  {
+    "Abbreviation": "UYT",
+    "Time zone name": "Uruguay Time",
+    "Location": "South America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "UZT",
+    "Time zone name": "Uzbekistan Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "V",
+    "Time zone name": "Victor Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -9"
+  },
+  {
+    "Abbreviation": "VET",
+    "Time zone name": "Venezuelan Standard Time\nHLV – Hora Legal de Venezuela (Spanish)\n",
+    "Location": "South America\n",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "VLAST",
+    "Time zone name": "Vladivostok Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "VLAT",
+    "Time zone name": "Vladivostok Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "VOST",
+    "Time zone name": "Vostok Time",
+    "Location": "Antarctica\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "VUT",
+    "Time zone name": "Vanuatu Time\nEFATE – Efate Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "W",
+    "Time zone name": "Whiskey Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -10"
+  },
+  {
+    "Abbreviation": "WAKT",
+    "Time zone name": "Wake Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "WARST",
+    "Time zone name": "Western Argentine Summer Time",
+    "Location": "South America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "WAST",
+    "Time zone name": "West Africa Summer Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "WAT",
+    "Time zone name": "West Africa Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +1"
+  },
+  {
+    "Abbreviation": "WEST",
+    "Time zone name": "Western European Summer Time\nWEDT – Western European Daylight Time\nWESZ – Westeuropäische Sommerzeit (German)\n",
+    "Location": "Europe\nAfrica\n",
+    "Offset": "UTC +1"
+  },
+  {
+    "Abbreviation": "WET",
+    "Time zone name": "Western European Time\nGMT – Greenwich Mean Time\nWEZ – Westeuropäische Zeit (German)\n",
+    "Location": "Europe\nAfrica\n",
+    "Offset": "UTC +0"
+  },
+  {
+    "Abbreviation": "WFT",
+    "Time zone name": "Wallis and Futuna Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +12"
+  },
+  {
+    "Abbreviation": "WGST",
+    "Time zone name": "Western Greenland Summer Time\nWGST – West Greenland Summer Time",
+    "Location": "North America\n",
+    "Offset": "UTC -2"
+  },
+  {
+    "Abbreviation": "WGT",
+    "Time zone name": "West Greenland Time\nWGT – Western Greenland Time",
+    "Location": "North America\n",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "WIB",
+    "Time zone name": "Western Indonesian Time\nWIB – Waktu Indonesia Barat",
+    "Location": "Asia\n",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "WIT",
+    "Time zone name": "Eastern Indonesian Time\nWIT – Waktu Indonesia Timur",
+    "Location": "Asia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "WITA",
+    "Time zone name": "Central Indonesian Time\nWITA – Waktu Indonesia Tengah",
+    "Location": "Asia\n",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "WST",
+    "Time zone name": "West Samoa Time\nST – Samoa Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +14"
+  },
+  {
+    "Abbreviation": "WST",
+    "Time zone name": "Western Sahara Summer Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +1"
+  },
+  {
+    "Abbreviation": "WT",
+    "Time zone name": "Western Sahara Standard Time\nWT – Western Sahara Time",
+    "Location": "Africa\n",
+    "Offset": "UTC +0"
+  },
+  {
+    "Abbreviation": "X",
+    "Time zone name": "X-ray Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -11"
+  },
+  {
+    "Abbreviation": "Y",
+    "Time zone name": "Yankee Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC -12"
+  },
+  {
+    "Abbreviation": "YAKST",
+    "Time zone name": "Yakutsk Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "YAKT",
+    "Time zone name": "Yakutsk Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "YAPT",
+    "Time zone name": "Yap Time",
+    "Location": "Pacific\n",
+    "Offset": "UTC +10"
+  },
+  {
+    "Abbreviation": "YEKST",
+    "Time zone name": "Yekaterinburg Summer Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "YEKT",
+    "Time zone name": "Yekaterinburg Time",
+    "Location": "Asia\n",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "Z",
+    "Time zone name": "Zulu Time Zone",
+    "Location": "Military\n",
+    "Offset": "UTC +0"
+  }
+]

@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTime", "src\GeoTime\GeoTime.csproj", "{ACEFB31F-ADBB-427A-9BC2-86BAC9C32DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTime.Build", "src\GeoTime.Build\GeoTime.Build.csproj", "{78243F3F-17C5-4A9E-BDAE-5E403D8B0DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTime.Demo", "src\GeoTime.Demo\GeoTime.Demo.csproj", "{27C54308-3CCA-46ED-A38F-535F5E1C68BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEFB31F-ADBB-427A-9BC2-86BAC9C32DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEFB31F-ADBB-427A-9BC2-86BAC9C32DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEFB31F-ADBB-427A-9BC2-86BAC9C32DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEFB31F-ADBB-427A-9BC2-86BAC9C32DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78243F3F-17C5-4A9E-BDAE-5E403D8B0DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78243F3F-17C5-4A9E-BDAE-5E403D8B0DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78243F3F-17C5-4A9E-BDAE-5E403D8B0DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78243F3F-17C5-4A9E-BDAE-5E403D8B0DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C54308-3CCA-46ED-A38F-535F5E1C68BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C54308-3CCA-46ED-A38F-535F5E1C68BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C54308-3CCA-46ED-A38F-535F5E1C68BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C54308-3CCA-46ED-A38F-535F5E1C68BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BDB39FA-61C4-469C-A11D-05D559E48336}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 80
+		$1.TabWidth = 8
+		$1.IndentWidth = 8
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchSection = False
+		$2.LabelPositioning = NoIndent
+		$2.NewLinesForBracesInTypes = False
+		$2.NewLinesForBracesInMethods = False
+		$2.NewLinesForBracesInProperties = False
+		$2.NewLinesForBracesInAccessors = False
+		$2.NewLinesForBracesInAnonymousMethods = False
+		$2.NewLinesForBracesInControlBlocks = False
+		$2.NewLinesForBracesInAnonymousTypes = False
+		$2.NewLinesForBracesInObjectCollectionArrayInitializers = False
+		$2.NewLinesForBracesInLambdaExpressionBody = False
+		$2.SpaceWithinMethodDeclarationParenthesis = True
+		$2.SpaceWithinMethodCallParentheses = True
+		$2.SpaceWithinExpressionParentheses = True
+		$2.SpaceWithinOtherParentheses = True
+		$2.scope = text/x-csharp
+		$0.DotNetNamingPolicy = $3
+		$3.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$3.ResourceNamePolicy = MSBuild
+		$0.StandardHeader = $4
+	EndGlobalSection
+EndGlobal

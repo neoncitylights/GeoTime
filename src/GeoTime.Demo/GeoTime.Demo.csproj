@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GeoTime\GeoTime.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="$(solutionDir)\artifacts\timezones.ambiguity.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="$(solutionDir)\artifacts\timezones.list.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="NodaTime" Version="3.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="$(solutionDir)\artifacts\timezones.ambiguity.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="$(solutionDir)\artifacts\timezones.list.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

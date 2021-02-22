@@ -1,0 +1,23 @@
+{
+	"FormattingOptions": {
+		"FileWidth": 80,
+		"TabWidth": 8,
+		"IndentWidth": 8,
+		"scope": "text/x-csharp",
+		"IndentSwitchSection": false,
+		"LabelPositioning": "NoIndent",
+		"NewLinesForBracesInTypes": false,
+		"NewLinesForBracesInMethods": false,
+		"NewLinesForBracesInProperties": false,
+		"NewLinesForBracesInAccessors": false,
+		"NewLinesForBracesInAnonymousMethods": false,
+		"NewLinesForBracesInControlBlocks": false,
+		"NewLinesForBracesInAnonymousTypes": false,
+		"NewLinesForBracesInObjectCollectionArrayInitializers": false,
+		"NewLinesForBracesInLambdaExpressionBody": false,
+		"SpaceWithinMethodDeclarationParenthesis": true,
+		"SpaceWithinMethodCallParentheses": true,
+		"SpaceWithinExpressionParentheses": true,
+		"SpaceWithinOtherParentheses": true
+	}
+}
