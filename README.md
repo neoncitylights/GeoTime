@@ -42,7 +42,7 @@ TZAbbrLookup lookup = new TZAbbrLookupFactory().GetLookup();
 ```
 
 ### Check if an abbreviation is ambiguous
-Checking if an abbreviation is ambiguous takes constant time(O(1) time).
+Checking if an abbreviation is ambiguous takes constant time (O(1) time).
 
 ```csharp
 lookup.IsAbbrAmbiguous( "CST" ); // true
@@ -50,9 +50,9 @@ lookup.IsAbbrAmbiguous( "ART" ); // false
 ```
 
 ### Get an abbreviated timezone by ID or name
-Querying an abbreviated timezone by:
-  * their unique integer ID takes O(1) time.
-  * their unique full name does a linear search, and will therefore take O(n) time, where `n` represents the number of timezone abbreviations.
+Querying an abbreviated timezone by their...
+  * ...unique integer ID takes O(1) time.
+  * ...unique full name will take linear time (O(n) time), where `n` represents the number of timezone abbreviations.
 
 ```csharp
 TZAbbr novosibirsk = lookup.GetTimeZone( 149 );
@@ -85,7 +85,7 @@ lookup.GetTimeZonesByAbbr( "CST" );
    }
  **/
 
-lookup.GetTimeZonesByABbr( "PGT" );
+lookup.GetTimeZonesByAbbr( "PGT" );
 /**
    new HashSet<TZAbbr>() {
       new TZAbbr( 166, "PGT", "Papua New Guinea Time", 36000 )

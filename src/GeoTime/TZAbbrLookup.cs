@@ -61,12 +61,9 @@ namespace GeoTime {
 			return false;
 		}
 
-		public bool TryGetTimeZone( string abbrOrName, [MaybeNullWhen( false )] out TZAbbr value ) {
+		public bool TryGetTimeZone( string name, [MaybeNullWhen( false )] out TZAbbr value ) {
 			foreach ( KeyValuePair<int, TZAbbr> kvp in MainStore ) {
-				if (
-					abbrOrName == kvp.Value.Name ||
-					abbrOrName == kvp.Value.Abbr
-				) {
+				if ( name == kvp.Value.Name ) {
 					value = kvp.Value;
 					return true;
 				}

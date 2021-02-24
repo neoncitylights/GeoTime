@@ -8,7 +8,7 @@ namespace GeoTime {
 		public bool IsAbbrAmbiguous( TZAbbr tzAbbr );
 
 		public TZAbbr GetTimeZone( int id );
-		public TZAbbr GetTimeZone( string abbrOrName );
+		public TZAbbr GetTimeZone( string name );
 		public bool TryGetTimeZone( int id, [MaybeNullWhen( false )] out TZAbbr value );
 		public bool TryGetTimeZone( string name, [MaybeNullWhen( false )] out TZAbbr value );
 
