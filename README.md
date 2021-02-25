@@ -1,5 +1,8 @@
 # GeoTime
-GeoTime aims to be a fast, lightweight, and memory-efficient C# library for querying timezone abbreviations.
+[![.NET](https://github.com/neoncitylights/GeoTime/actions/workflows/dotnet.yml/badge.svg)](https://github.com/neoncitylights/GeoTime/actions/workflows/dotnet.yml)
+[![CodeQL](https://github.com/neoncitylights/GeoTime/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/neoncitylights/GeoTime/actions/workflows/codeql-analysis.yml)
+
+**GeoTime** aims to be a fast, lightweight, and memory-efficient C# library for querying timezone abbreviations.
 
 ## Architecture
  - **TZAbbr**: An entity representing an abbreviated timezone, which holds: a unique ID, an abbreviation, a name, and an offset (in seconds).
