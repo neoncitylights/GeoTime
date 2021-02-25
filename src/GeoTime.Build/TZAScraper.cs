@@ -50,19 +50,15 @@ namespace GeoTime.Build {
 				);
 			}
 
+			SerializeAndWriteToFile( FileNameList, abbrList );
+			SerializeAndWriteToFile( FileNameAmbiguity, abbrAmbiguity );
+		}
+
+		private static void SerializeAndWriteToFile( string fileName, object data ) {
 			File.WriteAllText(
-				FileNameList,
-				JsonConvert.SerializeObject( abbrList, Formatting.Indented )
-			);
-
-			Console.WriteLine( $"DONE: Finished writing to {FileNameList}" );
-
-			File.WriteAllText(
-				FileNameAmbiguity,
-				JsonConvert.SerializeObject( abbrAmbiguity, Formatting.None )
-			);
-
-			Console.WriteLine( $"DONE: Finished writing to {FileNameAmbiguity}" );
+				fileName,
+				JsonConvert.SerializeObject( data, Formatting.None ) );
+			Console.WriteLine( $"DONE: Finished writing to {fileName}" );
 		}
 
 		private string CleanString( string value ) {
