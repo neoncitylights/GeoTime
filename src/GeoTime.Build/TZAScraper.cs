@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Reflection;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -13,7 +14,8 @@ namespace GeoTime.Build {
 			Dictionary<int, object> abbrList = new();
 			Dictionary<string, HashSet<int>> abbrAmbiguity = new();
 
-			using StreamReader reader = File.OpenText( "timezones.json" );
+			Assembly asm = Assembly.GetExecutingAssembly();
+			using StreamReader reader = new( asm.GetManifestResourceStream( "GeoTime.Build.timezones.json" ) );
 			JArray o = (JArray)JToken.ReadFrom( new JsonTextReader( reader ) );
 			for ( int i = 0; i < o.Count; i++ ) {
 				JObject tzaObject = (JObject)o[i];

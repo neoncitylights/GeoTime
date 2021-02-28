@@ -10,6 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="$(solutionDir)\data\timezones.json" CopyToOutputDirectory="PreserveNewest" />
+    <EmbeddedResource Include="..\..\data\timezones.json"></EmbeddedResource>
   </ItemGroup>
 </Project>

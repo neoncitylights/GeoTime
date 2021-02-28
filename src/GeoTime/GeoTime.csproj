@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="$(solutionDir)\artifacts\timezones.ambiguity.json" CopyToOutputDirectory="PreserveNewest" />
-    <None Include="$(solutionDir)\artifacts\timezones.list.json" CopyToOutputDirectory="PreserveNewest" />
+    <EmbeddedResource Include="..\..\artifacts\timezones.ambiguity.json"></EmbeddedResource>
+    <EmbeddedResource Include="..\..\artifacts\timezones.list.json"></EmbeddedResource>
   </ItemGroup>
 </Project>

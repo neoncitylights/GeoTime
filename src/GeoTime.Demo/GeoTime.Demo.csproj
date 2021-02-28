@@ -8,9 +8,4 @@
   <ItemGroup>
     <ProjectReference Include="..\GeoTime\GeoTime.csproj" />
   </ItemGroup>
-
-  <ItemGroup>
-    <None Include="$(solutionDir)\artifacts\timezones.ambiguity.json" CopyToOutputDirectory="PreserveNewest" />
-    <None Include="$(solutionDir)\artifacts\timezones.list.json" CopyToOutputDirectory="PreserveNewest" />
-  </ItemGroup>
 </Project>

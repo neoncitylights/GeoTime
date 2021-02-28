@@ -45,12 +45,11 @@ The original timezone data is auto-extracted from an HTML table using a JS snipp
 
 To build the data and make it usable, you can run the `GeoTime.Build` project, which will produce two files in the `/artifacts` folder:
 
- - **List** file - `artifacts/timezones.list.json`: Holds a map which maps a unique primary key/ID to an abbreviated timezone.
- - **Ambiguity** file - `artifacts/timezones.ambiguity.json`: Holds a map which maps the timezone abbreviations (string keys) to the unique ID of a timezone it can stand for (array of integers).
+ - **List** file - [timezones.list.json](artifacts/timezones.list.json): Holds a map which maps a unique primary key/ID to an abbreviated timezone.
+ - **Ambiguity** file - [timezones.ambiguity.json](artifacts/timezones.list.json): Holds a map which maps the timezone abbreviations (string keys) to the unique ID of a timezone it can stand for (array of integers).
 
 Notes:
 The following issues are being worked on.
- - Currently, the `GeoTime.Build` project cannot be ran with `dotnet run`, and has to be built with Microsoft Studio IDE.
  - The artifacts are not automatically placed into the `artifacts` folder, and will have to be *manually* moved from `src/GeoTime.Build/bin/Release/net5.0` to `artifacts`.
 
 ## Memory and performance
@@ -85,9 +84,9 @@ TZAbbr novosibirsk = lookup.GetTimeZone( 149 );
 TZAbbr argentina = lookup.GetTimeZone( "Argentina Time" );
 // new TZAbbr( 22, "ART", "Argentina Time", -10800 )
 
-argentina.Abbr; // "ART"
-argentina.OffsetInSeconds; // -10800
-argentina.GetOffset().ToString(); // "UTC -03"
+Console.WriteLine( argentina.Abbr ); // "ART"
+Console.WriteLine( argentina.OffsetInSeconds ); // -10800
+Console.WriteLine( argentina.GetOffset().ToString() ); // "-03"
 
 TZAbbr someTZ = lookup.GetTimeZone( "Foo" );
 // throws TimeZoneNotFoundException
