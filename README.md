@@ -32,9 +32,8 @@ The following issues are being worked on.
  - The artifacts are not automatically placed into the `artifacts` folder, and will have to be *manually* moved from `src/GeoTime.Build/bin/Release/net5.0` to `artifacts`.
 
 ## Memory and performance
- - The list file can be minified, which will drop the size from 24.71 KB, to 17.33 KB (1.43x smaller).
- - A minified list file and the ambiguity file (already minified) combined, totals to 20.01 KB.
-   - Compressing into a ZIP will drop it to a total 9KB (2.22x smaller).
+ - The datasets combined (already minified), totals to 20 KB.
+   - Compressing into a ZIP will drop it to a total 6.17KB (3.24x smaller).
    - gzipping both files will drop it to a total 5.2KB (3.85x smaller).
 
 Constructing the lookup service will take the most time, as this requires indexing all the timezone data by deserializing two JSON files into C# read-only dictionaries. After creating a lookup, querying for info will generally run under much quicker times.

@@ -15,13 +15,7 @@ namespace GeoTime.Demo {
 				if ( tzsFound ) {
 					int i = 1;
 					foreach ( TZAbbr tz in timezones ) {
-						Console.WriteLine( string.Format(
-							"{0}. (UTC {1}) | {2} | {3}",
-							i,
-							tz.GetOffset(),
-							tz.Abbr,
-							tz.Name
-						) );
+						Console.WriteLine( tz.ToString() );
 						i++;
 					}
 				}
