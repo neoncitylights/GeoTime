@@ -94,3 +94,6 @@ lookup.GetTimeZonesByAbbr( "PGT" );
    }
  **/
 ```
+
+## License
+GeoTime is licensed under the [MIT license](./LICENSE).
