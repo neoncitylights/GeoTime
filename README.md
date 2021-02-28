@@ -1,4 +1,5 @@
 # GeoTime
+![Nuget](https://img.shields.io/nuget/v/GeoTime)
 ![GitHub](https://img.shields.io/github/license/neoncitylights/GeoTime)
 [![.NET](https://github.com/neoncitylights/GeoTime/actions/workflows/dotnet.yml/badge.svg)](https://github.com/neoncitylights/GeoTime/actions/workflows/dotnet.yml)
 [![CodeQL](https://github.com/neoncitylights/GeoTime/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/neoncitylights/GeoTime/actions/workflows/codeql-analysis.yml)
@@ -9,6 +10,7 @@
 - [GeoTime](#geotime)
   - [Overview](#overview)
   - [Demo](#demo)
+  - [Install](#install)
   - [System requirements](#system-requirements)
   - [Architecture](#architecture)
     - [The concept of ambiguity](#the-concept-of-ambiguity)
@@ -22,6 +24,19 @@
 
 ## Demo
 ![GIF demonstrating the GeoTime library](assets/demo-recording.gif)
+
+## Install
+ * Package Manager Console:
+
+        Install-Package GeoTime -Version 1.0.0
+
+* Nuget:
+
+        nuget install GeoTime -Version 1.0.0
+
+* .NET CLI:
+
+        dotnet add package GeoTime --version 1.0.0
 
 ## System requirements
  * .NET version: 5.x ([C# language version](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version#defaults): 9.0)
