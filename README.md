@@ -4,6 +4,9 @@
 
 **GeoTime** aims to be a fast, lightweight, and memory-efficient C# library for querying timezone abbreviations.
 
+## Demo
+![GIF demonstrating the GeoTime library](assets/demo-recording.gif)
+
 ## Architecture
  - **TZAbbr**: An entity representing an abbreviated timezone, which holds: a unique ID, an abbreviation, a name, and an offset (in seconds).
  - **TZAbbrLookup**: A high-level service that allows looking up information about abbreviated timezones
