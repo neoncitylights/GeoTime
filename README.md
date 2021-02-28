@@ -1,4 +1,5 @@
 # GeoTime
+![GitHub](https://img.shields.io/github/license/neoncitylights/GeoTime)
 [![.NET](https://github.com/neoncitylights/GeoTime/actions/workflows/dotnet.yml/badge.svg)](https://github.com/neoncitylights/GeoTime/actions/workflows/dotnet.yml)
 [![CodeQL](https://github.com/neoncitylights/GeoTime/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/neoncitylights/GeoTime/actions/workflows/codeql-analysis.yml)
 
