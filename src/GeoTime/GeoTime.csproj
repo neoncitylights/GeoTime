@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="..\..\artifacts\timezones.ambiguity.json"></EmbeddedResource>
-    <EmbeddedResource Include="..\..\artifacts\timezones.list.json"></EmbeddedResource>
+    <EmbeddedResource Include="..\..\artifacts\timezones.ambiguity.json" />
+    <EmbeddedResource Include="..\..\artifacts\timezones.list.json" />
   </ItemGroup>
 </Project>
