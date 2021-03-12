@@ -25,7 +25,7 @@ namespace GeoTime {
 		}
 
 		private StreamReader GetStreamReader( Assembly asm, string resourceName ) {
-			return new StreamReader( asm.GetManifestResourceStream( resourceName ) );
+			return new( asm.GetManifestResourceStream( resourceName ) );
 		}
 	}
 }
