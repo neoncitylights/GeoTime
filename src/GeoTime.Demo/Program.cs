@@ -9,7 +9,6 @@ namespace GeoTime.Demo {
 			while ( true ) {
 				Console.Write( "Type in a timezone abbreviation: " );
 				string abbr = Console.ReadLine();
-
 				bool tzsFound = lookup.TryGetTimeZonesByAbbr( abbr, out HashSet<TZAbbr> timezones );
 
 				if ( tzsFound ) {
