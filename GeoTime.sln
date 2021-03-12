@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTime", "src\GeoTime\GeoT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTime.Build", "src\GeoTime.Build\GeoTime.Build.csproj", "{78243F3F-17C5-4A9E-BDAE-5E403D8B0DF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTime.Demo", "src\GeoTime.Demo\GeoTime.Demo.csproj", "{27C54308-3CCA-46ED-A38F-535F5E1C68BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTime.Demo", "samples\GeoTime.Demo\GeoTime.Demo.csproj", "{27C54308-3CCA-46ED-A38F-535F5E1C68BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

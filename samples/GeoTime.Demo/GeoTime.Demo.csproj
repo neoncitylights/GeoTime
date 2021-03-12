@@ -6,6 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GeoTime\GeoTime.csproj" />
+    <ProjectReference Include="..\..\src\GeoTime\GeoTime.csproj" />
   </ItemGroup>
 </Project>
