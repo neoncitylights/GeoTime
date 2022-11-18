@@ -90,7 +90,7 @@ lookup.IsAbbrAmbiguous( "ART" ); // false
 ### Get an abbreviated timezone by ID or name
 Querying an abbreviated timezone by their...
   * ...unique integer ID takes $O(1)$ time.
-  * ...unique full name will take linear time ($O(n)$ time), where $n$ represents the number of timezone abbreviations.
+  * ...unique full name will take linear time ( $O(n)$ time), where $n$ represents the number of timezone abbreviations.
 
 ```csharp
 TZAbbr novosibirsk = lookup.GetTimeZone( 149 );
