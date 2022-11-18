@@ -89,8 +89,8 @@ lookup.IsAbbrAmbiguous( "ART" ); // false
 
 ### Get an abbreviated timezone by ID or name
 Querying an abbreviated timezone by their...
-  * ...unique integer ID takes O(1) time.
-  * ...unique full name will take linear time (O(n) time), where `n` represents the number of timezone abbreviations.
+  * ...unique integer ID takes $O(1)$ time.
+  * ...unique full name will take linear time ($O(n)$ time), where $n$ represents the number of timezone abbreviations.
 
 ```csharp
 TZAbbr novosibirsk = lookup.GetTimeZone( 149 );
@@ -108,10 +108,7 @@ TZAbbr someTZ = lookup.GetTimeZone( "Foo" );
 ```
 
 ### Get possible timezones from an abbreviation
-Querying a list of timezones by abbreviation will take O(1+n) time, where n represents the number of timezones an abbreviation can possibly stand for. The first operation will be a dictionary lookup, and the n operations after will be dictionary lookups of the timezones by ID.
-
-* In average case and best case: O(2) (An abbreviation maps to 1 timezone)
-* In worst case: O(4) (An abbreviation maps to 3 timezones)
+Querying a list of timezones by abbreviation will take $O(1)$ time, as internally it's purely dictionary lookups.
 
 ```csharp
 lookup.GetTimeZonesByAbbr( "CST" );
