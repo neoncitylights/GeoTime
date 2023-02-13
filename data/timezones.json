@@ -1462,5 +1462,143 @@
     "Time zone name": "Zulu Time Zone",
     "Location": "Military\n",
     "Offset": "UTC +0"
+  },
+  {
+    "Abbreviation": "BDT",
+    "Time zone name": "Brunei Time",
+    "Location": "Asia",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "BDT",
+    "Time zone name": "Bangladesh Daylight Time",
+    "Location": "Bangladesh",
+    "Offset": "UTC +6"
+  },
+  {
+    "Abbreviation": "BIT",
+    "Time zone name": "Baker Island Time",
+    "Location": "Pacific",
+    "Offset": "UTC -12"
+  },
+  {
+    "Abbreviation": "CIT",
+    "Time zone name": "Central Indonesia Time",
+    "Location": "Asia",
+    "Offset": "UTC +8"
+  },
+  {
+    "Abbreviation": "COST",
+    "Time zone name": "Colombia Summer Time",
+    "Location": "South America",
+    "Offset": "UTC -4"
+  },
+  {
+    "Abbreviation": "CWST", 
+    "Time zone name": "Central Western Standard Time",
+    "Location": "Australia",
+    "Offset": "UTC +8:45"
+  },
+  {
+    "Abbreviation": "EIT",
+    "Time zone name": "Eastern Indonesian Time",
+    "Location": "Asia",
+    "Offset": "UTC +9"
+  },
+  {
+    "Abbreviation": "HADT",
+    "Time zone name": "Hawaii-Aleutian Daylight Time",
+    "Location": "North America",
+    "Offset": "UTC -9"
+  },
+  {
+    "Abbreviation": "HAEC",
+    "Time zone name": "Heure Avancée d'Europe Centrale",
+    "Location": "Europe",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "HAST",
+    "Time zone name": "Hawaii-Aleutian Standard Time",
+    "Location": "North America",
+    "Offset": "UTC -10"
+  },
+  {
+    "Abbreviation": "HMT",
+    "Time zone name": "Heard and McDonald Islands Time",
+    "Location": "Indian Ocean",
+    "Offset": "UTC +5"
+  },
+  {
+    "Abbreviation": "MIST",
+    "Time zone name": "Macquarie Island Station Time",
+    "Location": "Pacific Ocean",
+    "Offset": "UTC +11"
+  },
+  {
+    "Abbreviation": "MIT",
+    "Time zone name": "Marquesas Islands Time",
+    "Location": "Pacific Ocean",
+    "Offset": "UTC -9:30"
+  },
+  {
+    "Abbreviation": "NT",
+    "Time zone name": "Newfoundland Time",
+    "Location": "North America",
+    "Offset": "UTC -3:30"
+  },
+  {
+   "Abbreviation": "NDT",
+    "Time zone name": "Newfoundland Daylight Time",
+    "Location": "North America",
+    "Offset": "UTC -2:30"
+  },
+  {
+    "Abbreviation": "NST",
+    "Time zone name": "Newfoundland Standard Time",
+    "Location": "North America",
+    "Offset": "UTC -3:30"
+  },
+  {
+    "Abbreviation": "SLST",
+    "Time zone name": "Sri Lanka Standard Time",
+    "Location": "Asia",
+    "Offset": "UTC +5:30"
+  },
+  {
+    "Abbreviation": "TST",
+    "Time zone name": "Thailand Standard Time",
+    "Location": "Asia",
+    "Offset": "UTC +7"
+  },
+  {
+    "Abbreviation": "USZ1",
+    "Time zone name": "Kaliningrad Time",
+    "Location": "Europe",
+    "Offset": "UTC +2"
+  },
+  {
+    "Abbreviation": "VOLT",
+    "Time zone name": "Volgograd Time",
+    "Location": "Europe",
+    "Offset": "UTC +4"
+  },
+  {
+    "Abbreviation": "WGT",
+    "Time zone name": "West Greenland Time",
+    "Location": "North America",
+    "Offset": "UTC -3"
+  },
+  {
+    "Abbreviation": "MET",
+    "Time zone name": "Middle European Time",
+    "Location": "Europe",
+    "Offset": "UTC +1"
+  },
+  {
+    "Abbreviation": "MEST",
+    "Time zone name": "Middle European Summer Time",
+    "Location": "Europe",
+    "Offset": "UTC +2"
   }
 ]
